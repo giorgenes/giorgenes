@@ -43,5 +43,6 @@
 
 * [Material Design](https://material.io/)
 * [Color Scheme Generator](https://coolors.co/)
+* [SVG Generator - Waves, globs, etc](https://haikei.app/)
 
 
