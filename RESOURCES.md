@@ -23,6 +23,10 @@
 
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 
+## Go
+
+* [Awesome GO](https://github.com/avelino/awesome-go) - a Curated list of Go tools and libraries
+
 ## Ruby
 
 * [BetterSpec - How to write better specs](https://www.betterspecs.org/)
