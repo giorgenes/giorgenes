@@ -38,6 +38,9 @@
 * [.gitignore generator](https://www.toptal.com/developers/gitignore)
 * [markdown table generator](https://www.tablesgenerator.com/markdown_tables)
 * [Hygen - scalable code generator](https://www.hygen.io/)
+* [Collection of some readme Badges](https://badges.aleen42.com/)
+* [Shields.io - Badge API for you git repos](https://shields.io/)
+* [SimpleIcons - List of icons to use with your git badge](https://simpleicons.org/)
 
 # Design
 
