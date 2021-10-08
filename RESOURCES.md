@@ -1,0 +1,41 @@
+# Table of Contents
+
+1. [Software Development](#software-development)
+2. [Design](#design)
+
+
+# Software Development
+
+## Project Management
+
+* [Story Mapping](https://www.jpattonassociates.com/story-mapping/)
+* 
+
+## Testing, TDD, BDD
+
+* [TDD Anti Patterns](https://bryanwilhite.github.io/the-funky-knowledge-base/entry/kb2076072213/)
+* [When TDD Goes Wrong (video)](https://www.youtube.com/watch?v=UWtEVKVPBQ0)
+
+## Ruby
+
+* [BetterSpec - How to write better specs](https://www.betterspecs.org/)
+* [Rubocop Rspec Style Guide](https://github.com/rubocop/rspec-style-guide)
+
+
+## Architecture
+
+* [C4 Architecture Visualization Model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+* [PlantUML - Open Source Diagraming Tool](https://plantuml.com/)
+
+## Tools
+
+* [Random name generator](https://sprintnamegenerator.com/)
+* [.gitignore generator](https://www.toptal.com/developers/gitignore)
+* [markdown table generator](https://www.tablesgenerator.com/markdown_tables)
+
+# Design
+
+* [Material Design](https://material.io/)
+* [Color Scheme Generator](https://coolors.co/)
+
+
