@@ -17,6 +17,10 @@
 * [TDD Anti Patterns](https://bryanwilhite.github.io/the-funky-knowledge-base/entry/kb2076072213/)
 * [When TDD Goes Wrong (video)](https://www.youtube.com/watch?v=UWtEVKVPBQ0)
 
+## Security
+
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
+
 ## Ruby
 
 * [BetterSpec - How to write better specs](https://www.betterspecs.org/)
