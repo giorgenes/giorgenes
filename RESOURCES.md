@@ -28,6 +28,10 @@
 * [C4 Architecture Visualization Model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [PlantUML - Open Source Diagraming Tool](https://plantuml.com/)
 
+## Performance
+
+* [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
+
 ## Tools
 
 * [Random name generator](https://sprintnamegenerator.com/)
