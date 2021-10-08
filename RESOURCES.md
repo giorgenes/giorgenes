@@ -34,13 +34,19 @@
 
 ## Tools
 
-* [Random name generator](https://sprintnamegenerator.com/)
-* [.gitignore generator](https://www.toptal.com/developers/gitignore)
-* [markdown table generator](https://www.tablesgenerator.com/markdown_tables)
-* [Hygen - scalable code generator](https://www.hygen.io/)
+### Git
+
 * [Collection of some readme Badges](https://badges.aleen42.com/)
 * [Shields.io - Badge API for you git repos](https://shields.io/)
 * [SimpleIcons - List of icons to use with your git badge](https://simpleicons.org/)
+* [markdown table generator](https://www.tablesgenerator.com/markdown_tables)
+* [.gitignore generator](https://www.toptal.com/developers/gitignore)
+
+
+### Other tools
+* [Hygen - scalable code generator](https://www.hygen.io/)
+* [Random name generator](https://sprintnamegenerator.com/)
+
 
 # Design
 
