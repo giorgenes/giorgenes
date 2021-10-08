@@ -53,5 +53,6 @@
 * [Material Design](https://material.io/)
 * [Color Scheme Generator](https://coolors.co/)
 * [SVG Generator - Waves, globs, etc](https://haikei.app/)
+* [Google fonts](https://fonts.google.com/) - Downloadable fonts for your project
 
 
