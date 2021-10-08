@@ -2,6 +2,8 @@
 
 1. [Software Development](#software-development)
 2. [Design](#design)
+3. [Machine Learning](#machine-learning)
+4. [Productivity](#productivity)
 
 
 # Software Development
