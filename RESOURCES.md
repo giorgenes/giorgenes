@@ -55,4 +55,6 @@
 * [SVG Generator - Waves, globs, etc](https://haikei.app/)
 * [Google fonts](https://fonts.google.com/) - Downloadable fonts for your project
 
+# Math
 
+* [Linear Algebra on MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/): An epic course online by the legendary Gilbert Strang
