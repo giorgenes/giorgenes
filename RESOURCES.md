@@ -6,10 +6,11 @@
 
 # Software Development
 
-## Project Management
+## Leadership
 
 * [Story Mapping](https://www.jpattonassociates.com/story-mapping/)
-* 
+* [Lencioni's 5 dysfunctions of a team](https://medium.com/taskworld-blog/lencionis-5-dysfunctions-of-a-team-330d58b2cd81)
+
 
 ## Testing, TDD, BDD
 
