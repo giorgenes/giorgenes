@@ -64,3 +64,10 @@
 
 * [Linear Algebra on MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/): An epic course online by the legendary Gilbert Strang
 * [Intro to Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) - Great ML introduction by Andrew Ng
+
+# Productivity
+
+* [Focusmate](https://www.focusmate.com/) - Do focused sessions with someone else online to create accountability
+* [noisli](https://www.noisli.com/) - White noise generator to help you focus
+* [Todoist](https://todoist.com/) - Powerful and simple todo list app
+* [Notion](https://www.notion.so/) - Great note taking app
