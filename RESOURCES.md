@@ -54,6 +54,10 @@
 * [Hygen - scalable code generator](https://www.hygen.io/)
 * [Random name generator](https://sprintnamegenerator.com/)
 
+## Philosophy
+
+* [20 things I've learned in my 20 years as a software developer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/) - Great blog post by Justin Etheredge
+
 
 # Design
 
