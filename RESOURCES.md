@@ -23,6 +23,10 @@
 
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 
+## HTML / CSS
+
+* [CSS Utility classes and separation of concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Article by Adam Wathan on different strategies on how to write and organize CSS which lead to the creation of [Tailwind CSS](https://tailwindcss.com/).
+
 ## Go
 
 * [Awesome GO](https://github.com/avelino/awesome-go) - a Curated list of Go tools and libraries
