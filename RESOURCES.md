@@ -42,6 +42,7 @@
 * [C4 Architecture Visualization Model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [PlantUML - Open Source Diagraming Tool](https://plantuml.com/)
 * [How to Become a Great Software Architect](https://www.youtube.com/watch?v=v_nhv6aY1Kg) - Great talk from Eberhard Wolff 
+* [https://microservices.io/](https://microservices.io/) - Website full of resources about webservices
 
 ## Performance
 
