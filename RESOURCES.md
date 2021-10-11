@@ -61,6 +61,7 @@
 ### Other tools
 * [Hygen - scalable code generator](https://www.hygen.io/)
 * [Random name generator](https://sprintnamegenerator.com/)
+* [C4 plant UML components](https://github.com/plantuml-stdlib/C4-PlantUML)
 
 ## Philosophy
 
