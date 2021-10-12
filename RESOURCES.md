@@ -23,9 +23,10 @@
 
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks
 
-## HTML / CSS
+## HTML / CSS / Frontend
 
 * [CSS Utility classes and separation of concerns](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) - Article by Adam Wathan on different strategies on how to write and organize CSS which lead to the creation of [Tailwind CSS](https://tailwindcss.com/).
+* [JAMStack](https://jamstack.org/) - Modern way of building websites
 
 ## Go
 
