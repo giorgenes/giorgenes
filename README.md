@@ -7,7 +7,7 @@ I'm a seasoned software engineer. I specialize in backend, web and API developme
 - 🌱 I’m currently learning Flutter, Dart and business.
 - 🤔 I’m looking for help with starting my business..
 
-Checkout my [extensive list of resources](RESOURCES.md).
+Checkout my [extensive list of resources](https://github.com/giorgenes/resources).
 
 ### Skills
 
