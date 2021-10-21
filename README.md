@@ -1,4 +1,4 @@
-### Hi there, I'm Giórgenes 👋
+# Hi there, I'm Giórgenes 👋
 
 
 I'm a seasoned software engineer. I specialize in backend, web and API development, software architecture and I dabble in frontend.
@@ -7,7 +7,10 @@ I'm a seasoned software engineer. I specialize in backend, web and API developme
 - 🌱 I’m currently learning Flutter, Dart and business.
 - 🤔 I’m looking for help with starting my business..
 
-Checkout my [extensive list of resources](https://github.com/giorgenes/resources).
+## Some cool things I've done
+
+* My 134 [contributions to Gitlab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?author_username=ggelatti&scope=all&state=merged)
+* I curate an [extensive list of resources](https://github.com/giorgenes/resources) related to software development.
 
 ### Skills
 
